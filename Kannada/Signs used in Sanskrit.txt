@@ -1,0 +1,16 @@
+0xcf0  ೰     UNKNOWN
+0xcf1  ೱ     KANNADA SIGN JIHVAMULIYA
+0xcf2  ೲ     KANNADA SIGN UPADHMANIYA
+0xcf3  ೳ     UNKNOWN
+0xcf4  ೴     UNKNOWN
+0xcf5  ೵     UNKNOWN
+0xcf6  ೶     UNKNOWN
+0xcf7  ೷     UNKNOWN
+0xcf8  ೸     UNKNOWN
+0xcf9  ೹     UNKNOWN
+0xcfa  ೺     UNKNOWN
+0xcfb  ೻     UNKNOWN
+0xcfc  ೼     UNKNOWN
+0xcfd  ೽     UNKNOWN
+0xcfe  ೾     UNKNOWN
+0xcff  ೿     UNKNOWN

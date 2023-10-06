@@ -1,0 +1,12 @@
+0xa74  ੴ     GURMUKHI EK ONKAR
+0xa75  ੵ     GURMUKHI SIGN YAKASH
+0xa76  ੶     GURMUKHI ABBREVIATION SIGN
+0xa77  ੷     UNKNOWN
+0xa78  ੸     UNKNOWN
+0xa79  ੹     UNKNOWN
+0xa7a  ੺     UNKNOWN
+0xa7b  ੻     UNKNOWN
+0xa7c  ੼     UNKNOWN
+0xa7d  ੽     UNKNOWN
+0xa7e  ੾     UNKNOWN
+0xa7f  ੿     UNKNOWN

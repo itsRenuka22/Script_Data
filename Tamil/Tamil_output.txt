@@ -1,0 +1,128 @@
+0xb80  ஀     UNKNOWN
+0xb81  ஁     UNKNOWN
+0xb82  ஂ     TAMIL SIGN ANUSVARA
+0xb83  ஃ     TAMIL SIGN VISARGA
+0xb84  ஄     UNKNOWN
+0xb85  அ     TAMIL LETTER A
+0xb86  ஆ     TAMIL LETTER AA
+0xb87  இ     TAMIL LETTER I
+0xb88  ஈ     TAMIL LETTER II
+0xb89  உ     TAMIL LETTER U
+0xb8a  ஊ     TAMIL LETTER UU
+0xb8b  ஋     <RESERVED>
+0xb8c  ஌     <RESERVED>
+0xb8d  ஍     <RESERVED>
+0xb8e  எ     TAMIL LETTER E
+0xb8f  ஏ     TAMIL LETTER EE
+0xb90  ஐ     TAMIL LETTER AI
+0xb91  ஑     <RESERVED>
+0xb92  ஒ     TAMIL LETTER O
+0xb93  ஓ     TAMIL LETTER OO
+0xb94  ஔ     TAMIL LETTER AU
+0xb95  க     TAMIL LETTER KA
+0xb96  ஖     <RESERVED>
+0xb97  ஗     <RESERVED>
+0xb98  ஘     <RESERVED>
+0xb99  ங     TAMIL LETTER NGA
+0xb9a  ச     TAMIL LETTER CA
+0xb9b  ஛     <RESERVED>
+0xb9c  ஜ     TAMIL LETTER JA
+0xb9d  ஝     <RESERVED>
+0xb9e  ஞ     TAMIL LETTER NYA
+0xb9f  ட     TAMIL LETTER TTA
+0xba0  ஠     <RESERVED>
+0xba1  ஡     <RESERVED>
+0xba2  ஢     <RESERVED>
+0xba3  ண     TAMIL LETTER NNA
+0xba4  த     TAMIL LETTER TA
+0xba5  ஥     <RESERVED>
+0xba6  ஦     <RESERVED>
+0xba7  ஧     <RESERVED>
+0xba8  ந     TAMIL LETTER NA
+0xba9  ன     TAMIL LETTER NNNA
+0xbaa  ப     TAMIL LETTER PA
+0xbab  ஫     <RESERVED>
+0xbac  ஬     <RESERVED>
+0xbad  ஭     <RESERVED>
+0xbae  ம     TAMIL LETTER MA
+0xbaf  ய     TAMIL LETTER YA
+0xbb0  ர     TAMIL LETTER RA
+0xbb1  ற     TAMIL LETTER RRA
+0xbb2  ல     TAMIL LETTER LA
+0xbb3  ள     TAMIL LETTER LLA
+0xbb4  ழ     TAMIL LETTER LLLA
+0xbb5  வ     TAMIL LETTER VA
+0xbb6  ஶ     TAMIL LETTER SHA
+0xbb7  ஷ     TAMIL LETTER SSA
+0xbb8  ஸ     TAMIL LETTER SA
+0xbb9  ஹ     TAMIL LETTER HA
+0xbba  ஺     UNKNOWN
+0xbbb  ஻     UNKNOWN
+0xbbc  ஼     UNKNOWN
+0xbbd  ஽     UNKNOWN
+0xbbe  ா     TAMIL VOWEL SIGN AA
+0xbbf  ி     TAMIL VOWEL SIGN I
+0xbc0  ீ     TAMIL VOWEL SIGN II
+0xbc1  ு     TAMIL VOWEL SIGN U
+0xbc2  ூ     TAMIL VOWEL SIGN UU
+0xbc3  ௃     <RESERVED>
+0xbc4  ௄     <RESERVED>
+0xbc5  ௅     <RESERVED>
+0xbc6  ெ     TAMIL VOWEL SIGN E
+0xbc7  ே     TAMIL VOWEL SIGN EE
+0xbc8  ை     TAMIL VOWEL SIGN AI
+0xbc9  ௉     UNKNOWN
+0xbca  ொ     TAMIL VOWEL SIGN O
+0xbcb  ோ     TAMIL VOWEL SIGN OO
+0xbcc  ௌ     TAMIL VOWEL SIGN AU
+0xbcd  ்     TAMIL SIGN VIRAMA
+0xbce  ௎     UNKNOWN
+0xbcf  ௏     UNKNOWN
+0xbd0  ௐ     TAMIL OM
+0xbd1  ௑     <RESERVED>
+0xbd2  ௒     <RESERVED>
+0xbd3  ௓     <RESERVED>
+0xbd4  ௔     <RESERVED>
+0xbd5  ௕     <RESERVED>
+0xbd6  ௖     <RESERVED>
+0xbd7  ௗ     TAMIL AU LENGTH MARK
+0xbd8  ௘     UNKNOWN
+0xbd9  ௙     UNKNOWN
+0xbda  ௚     UNKNOWN
+0xbdb  ௛     UNKNOWN
+0xbdc  ௜     UNKNOWN
+0xbdd  ௝     UNKNOWN
+0xbde  ௞     UNKNOWN
+0xbdf  ௟     UNKNOWN
+0xbe0  ௠     UNKNOWN
+0xbe1  ௡     UNKNOWN
+0xbe2  ௢     UNKNOWN
+0xbe3  ௣     UNKNOWN
+0xbe4  ௤     <RESERVED>
+0xbe5  ௥     <RESERVED>
+0xbe6  ௦     TAMIL DIGIT ZERO
+0xbe7  ௧     TAMIL DIGIT ONE
+0xbe8  ௨     TAMIL DIGIT TWO
+0xbe9  ௩     TAMIL DIGIT THREE
+0xbea  ௪     TAMIL DIGIT FOUR
+0xbeb  ௫     TAMIL DIGIT FIVE
+0xbec  ௬     TAMIL DIGIT SIX
+0xbed  ௭     TAMIL DIGIT SEVEN
+0xbee  ௮     TAMIL DIGIT EIGHT
+0xbef  ௯     TAMIL DIGIT NINE
+0xbf0  ௰     TAMIL NUMBER TEN
+0xbf1  ௱     TAMIL NUMBER ONE HUNDRED
+0xbf2  ௲     TAMIL NUMBER ONE THOUSAND
+0xbf3  ௳     TAMIL DAY SIGN
+0xbf4  ௴     TAMIL MONTH SIGN
+0xbf5  ௵     TAMIL YEAR SIGN
+0xbf6  ௶     TAMIL DEBIT SIGN
+0xbf7  ௷     TAMIL CREDIT SIGN
+0xbf8  ௸     TAMIL AS ABOVE SIGN
+0xbf9  ௹     TAMIL RUPEE SIGN
+0xbfa  ௺     TAMIL NUMBER SIGN
+0xbfb  ௻     UNKNOWN
+0xbfc  ௼     UNKNOWN
+0xbfd  ௽     UNKNOWN
+0xbfe  ௾     UNKNOWN
+0xbff  ௿     UNKNOWN

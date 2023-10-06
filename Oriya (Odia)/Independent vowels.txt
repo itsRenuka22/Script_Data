@@ -1,0 +1,17 @@
+0xb04  ଄     UNKNOWN
+0xb05  ଅ     ORIYA LETTER A
+0xb06  ଆ     ORIYA LETTER AA
+0xb07  ଇ     ORIYA LETTER I
+0xb08  ଈ     ORIYA LETTER II
+0xb09  ଉ     ORIYA LETTER U
+0xb0a  ଊ     ORIYA LETTER UU
+0xb0b  ଋ     ORIYA LETTER VOCALIC R
+0xb0c  ଌ     ORIYA LETTER VOCALIC L
+0xb0d  ଍     <RESERVED>
+0xb0e  ଎     <RESERVED>
+0xb0f  ଏ     ORIYA LETTER E
+0xb10  ଐ     ORIYA LETTER AI
+0xb11  ଑     <RESERVED>
+0xb12  ଒     <RESERVED>
+0xb13  ଓ     ORIYA LETTER O
+0xb14  ଔ     ORIYA LETTER AU

@@ -1,0 +1,4 @@
+0xbc9  ௉     UNKNOWN
+0xbca  ொ     TAMIL VOWEL SIGN O
+0xbcb  ோ     TAMIL VOWEL SIGN OO
+0xbcc  ௌ     TAMIL VOWEL SIGN AU

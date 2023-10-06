@@ -1,0 +1,17 @@
+0xb84  ஄     UNKNOWN
+0xb85  அ     TAMIL LETTER A
+0xb86  ஆ     TAMIL LETTER AA
+0xb87  இ     TAMIL LETTER I
+0xb88  ஈ     TAMIL LETTER II
+0xb89  உ     TAMIL LETTER U
+0xb8a  ஊ     TAMIL LETTER UU
+0xb8b  ஋     <RESERVED>
+0xb8c  ஌     <RESERVED>
+0xb8d  ஍     <RESERVED>
+0xb8e  எ     TAMIL LETTER E
+0xb8f  ஏ     TAMIL LETTER EE
+0xb90  ஐ     TAMIL LETTER AI
+0xb91  ஑     <RESERVED>
+0xb92  ஒ     TAMIL LETTER O
+0xb93  ஓ     TAMIL LETTER OO
+0xb94  ஔ     TAMIL LETTER AU

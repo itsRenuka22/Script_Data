@@ -1,0 +1,6 @@
+0xbfa  ௺     TAMIL NUMBER SIGN
+0xbfb  ௻     UNKNOWN
+0xbfc  ௼     UNKNOWN
+0xbfd  ௽     UNKNOWN
+0xbfe  ௾     UNKNOWN
+0xbff  ௿     UNKNOWN

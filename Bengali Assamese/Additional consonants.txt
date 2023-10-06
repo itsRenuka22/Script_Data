@@ -1,0 +1,8 @@
+0x9d8  ৘     UNKNOWN
+0x9d9  ৙     UNKNOWN
+0x9da  ৚     UNKNOWN
+0x9db  ৛     UNKNOWN
+0x9dc  ড়     BENGALI LETTER RRA
+0x9dd  ঢ়     BENGALI LETTER RHA
+0x9de  ৞     <RESERVED>
+0x9df  য়     BENGALI LETTER YYA

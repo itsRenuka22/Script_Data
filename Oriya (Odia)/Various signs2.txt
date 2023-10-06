@@ -1,0 +1,4 @@
+0xb3a  ଺     UNKNOWN
+0xb3b  ଻     UNKNOWN
+0xb3c  ଼     ORIYA SIGN NUKTA
+0xb3d  ଽ     ORIYA SIGN AVAGRAHA

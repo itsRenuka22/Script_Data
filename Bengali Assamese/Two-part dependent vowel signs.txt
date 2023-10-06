@@ -1,0 +1,4 @@
+0x9c9  ৉     UNKNOWN
+0x9ca  ৊     UNKNOWN
+0x9cb  ো     BENGALI VOWEL SIGN O
+0x9cc  ৌ     BENGALI VOWEL SIGN AU

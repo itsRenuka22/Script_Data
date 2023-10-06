@@ -1,0 +1,10 @@
+0xbce  ௎     UNKNOWN
+0xbcf  ௏     UNKNOWN
+0xbd0  ௐ     TAMIL OM
+0xbd1  ௑     <RESERVED>
+0xbd2  ௒     <RESERVED>
+0xbd3  ௓     <RESERVED>
+0xbd4  ௔     <RESERVED>
+0xbd5  ௕     <RESERVED>
+0xbd6  ௖     <RESERVED>
+0xbd7  ௗ     TAMIL AU LENGTH MARK

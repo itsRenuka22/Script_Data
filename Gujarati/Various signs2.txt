@@ -1,0 +1,4 @@
+0xaba  ઺     UNKNOWN
+0xabb  ઻     UNKNOWN
+0xabc  ઼     GUJARATI SIGN NUKTA
+0xabd  ઽ     GUJARATI SIGN AVAGRAHA

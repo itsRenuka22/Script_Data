@@ -1,0 +1,3 @@
+0xbf3  ௳     TAMIL DAY SIGN
+0xbf4  ௴     TAMIL MONTH SIGN
+0xbf5  ௵     TAMIL YEAR SIGN

@@ -1,0 +1,4 @@
+0xb80  ஀     UNKNOWN
+0xb81  ஁     UNKNOWN
+0xb82  ஂ     TAMIL SIGN ANUSVARA
+0xb83  ஃ     TAMIL SIGN VISARGA

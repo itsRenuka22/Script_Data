@@ -1,0 +1,10 @@
+0xb4e  ୎     UNKNOWN
+0xb4f  ୏     UNKNOWN
+0xb50  ୐     UNKNOWN
+0xb51  ୑     UNKNOWN
+0xb52  ୒     UNKNOWN
+0xb53  ୓     UNKNOWN
+0xb54  ୔     UNKNOWN
+0xb55  ୕     ORIYA SIGN OVERLINE
+0xb56  ୖ     ORIYA AI LENGTH MARK
+0xb57  ୗ     ORIYA AU LENGTH MARK

@@ -1,0 +1,9 @@
+0x9cf  ৏     UNKNOWN
+0x9d0  ৐     UNKNOWN
+0x9d1  ৑     UNKNOWN
+0x9d2  ৒     UNKNOWN
+0x9d3  ৓     UNKNOWN
+0x9d4  ৔     UNKNOWN
+0x9d5  ৕     UNKNOWN
+0x9d6  ৖     UNKNOWN
+0x9d7  ৗ     BENGALI AU LENGTH MARK

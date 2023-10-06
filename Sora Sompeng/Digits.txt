@@ -1,0 +1,23 @@
+0x110e9  𑃩     UNKNOWN
+0x110ea  𑃪     UNKNOWN
+0x110eb  𑃫     UNKNOWN
+0x110ec  𑃬     UNKNOWN
+0x110ed  𑃭     UNKNOWN
+0x110ee  𑃮     UNKNOWN
+0x110ef  𑃯     UNKNOWN
+0x110f0  𑃰     SORA SOMPENG DIGIT ZERO
+0x110f1  𑃱     SORA SOMPENG DIGIT ONE
+0x110f2  𑃲     SORA SOMPENG DIGIT TWO
+0x110f3  𑃳     SORA SOMPENG DIGIT THREE
+0x110f4  𑃴     SORA SOMPENG DIGIT FOUR
+0x110f5  𑃵     SORA SOMPENG DIGIT FIVE
+0x110f6  𑃶     SORA SOMPENG DIGIT SIX
+0x110f7  𑃷     SORA SOMPENG DIGIT SEVEN
+0x110f8  𑃸     SORA SOMPENG DIGIT EIGHT
+0x110f9  𑃹     SORA SOMPENG DIGIT NINE
+0x110fa  𑃺     UNKNOWN
+0x110fb  𑃻     UNKNOWN
+0x110fc  𑃼     UNKNOWN
+0x110fd  𑃽     UNKNOWN
+0x110fe  𑃾     UNKNOWN
+0x110ff  𑃿     UNKNOWN

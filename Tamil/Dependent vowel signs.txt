@@ -1,0 +1,15 @@
+0xbba  ஺     UNKNOWN
+0xbbb  ஻     UNKNOWN
+0xbbc  ஼     UNKNOWN
+0xbbd  ஽     UNKNOWN
+0xbbe  ா     TAMIL VOWEL SIGN AA
+0xbbf  ி     TAMIL VOWEL SIGN I
+0xbc0  ீ     TAMIL VOWEL SIGN II
+0xbc1  ு     TAMIL VOWEL SIGN U
+0xbc2  ூ     TAMIL VOWEL SIGN UU
+0xbc3  ௃     <RESERVED>
+0xbc4  ௄     <RESERVED>
+0xbc5  ௅     <RESERVED>
+0xbc6  ெ     TAMIL VOWEL SIGN E
+0xbc7  ே     TAMIL VOWEL SIGN EE
+0xbc8  ை     TAMIL VOWEL SIGN AI

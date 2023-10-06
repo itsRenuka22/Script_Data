@@ -1,0 +1,8 @@
+0xaf2  ૲     UNKNOWN
+0xaf3  ૳     UNKNOWN
+0xaf4  ૴     UNKNOWN
+0xaf5  ૵     UNKNOWN
+0xaf6  ૶     UNKNOWN
+0xaf7  ૷     UNKNOWN
+0xaf8  ૸     UNKNOWN
+0xaf9  ૹ     GUJARATI LETTER ZHA

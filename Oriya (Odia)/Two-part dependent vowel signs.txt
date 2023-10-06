@@ -1,0 +1,4 @@
+0xb49  ୉     UNKNOWN
+0xb4a  ୊     UNKNOWN
+0xb4b  ୋ     ORIYA VOWEL SIGN O
+0xb4c  ୌ     ORIYA VOWEL SIGN AU

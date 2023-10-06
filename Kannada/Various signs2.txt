@@ -1,0 +1,4 @@
+0xcba  ಺     UNKNOWN
+0xcbb  ಻     UNKNOWN
+0xcbc  ಼     KANNADA SIGN NUKTA
+0xcbd  ಽ     KANNADA SIGN AVAGRAHA

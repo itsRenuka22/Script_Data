@@ -1,0 +1,9 @@
+0xc4e  ౎     UNKNOWN
+0xc4f  ౏     UNKNOWN
+0xc50  ౐     UNKNOWN
+0xc51  ౑     UNKNOWN
+0xc52  ౒     UNKNOWN
+0xc53  ౓     UNKNOWN
+0xc54  ౔     UNKNOWN
+0xc55  ౕ     TELUGU LENGTH MARK
+0xc56  ౖ     TELUGU AI LENGTH MARK

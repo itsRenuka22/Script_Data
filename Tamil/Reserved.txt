@@ -1,0 +1,14 @@
+0xbd8  ௘     UNKNOWN
+0xbd9  ௙     UNKNOWN
+0xbda  ௚     UNKNOWN
+0xbdb  ௛     UNKNOWN
+0xbdc  ௜     UNKNOWN
+0xbdd  ௝     UNKNOWN
+0xbde  ௞     UNKNOWN
+0xbdf  ௟     UNKNOWN
+0xbe0  ௠     UNKNOWN
+0xbe1  ௡     UNKNOWN
+0xbe2  ௢     UNKNOWN
+0xbe3  ௣     UNKNOWN
+0xbe4  ௤     <RESERVED>
+0xbe5  ௥     <RESERVED>

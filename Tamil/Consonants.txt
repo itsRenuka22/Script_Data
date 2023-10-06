@@ -1,0 +1,37 @@
+0xb95  க     TAMIL LETTER KA
+0xb96  ஖     <RESERVED>
+0xb97  ஗     <RESERVED>
+0xb98  ஘     <RESERVED>
+0xb99  ங     TAMIL LETTER NGA
+0xb9a  ச     TAMIL LETTER CA
+0xb9b  ஛     <RESERVED>
+0xb9c  ஜ     TAMIL LETTER JA
+0xb9d  ஝     <RESERVED>
+0xb9e  ஞ     TAMIL LETTER NYA
+0xb9f  ட     TAMIL LETTER TTA
+0xba0  ஠     <RESERVED>
+0xba1  ஡     <RESERVED>
+0xba2  ஢     <RESERVED>
+0xba3  ண     TAMIL LETTER NNA
+0xba4  த     TAMIL LETTER TA
+0xba5  ஥     <RESERVED>
+0xba6  ஦     <RESERVED>
+0xba7  ஧     <RESERVED>
+0xba8  ந     TAMIL LETTER NA
+0xba9  ன     TAMIL LETTER NNNA
+0xbaa  ப     TAMIL LETTER PA
+0xbab  ஫     <RESERVED>
+0xbac  ஬     <RESERVED>
+0xbad  ஭     <RESERVED>
+0xbae  ம     TAMIL LETTER MA
+0xbaf  ய     TAMIL LETTER YA
+0xbb0  ர     TAMIL LETTER RA
+0xbb1  ற     TAMIL LETTER RRA
+0xbb2  ல     TAMIL LETTER LA
+0xbb3  ள     TAMIL LETTER LLA
+0xbb4  ழ     TAMIL LETTER LLLA
+0xbb5  வ     TAMIL LETTER VA
+0xbb6  ஶ     TAMIL LETTER SHA
+0xbb7  ஷ     TAMIL LETTER SSA
+0xbb8  ஸ     TAMIL LETTER SA
+0xbb9  ஹ     TAMIL LETTER HA

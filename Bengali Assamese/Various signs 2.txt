@@ -1,0 +1,4 @@
+0x9ba  ঺     UNKNOWN
+0x9bb  ঻     UNKNOWN
+0x9bc  ়     BENGALI SIGN NUKTA
+0x9bd  ঽ     BENGALI SIGN AVAGRAHA

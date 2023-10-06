@@ -1,0 +1,9 @@
+0xcd7  ೗     UNKNOWN
+0xcd8  ೘     UNKNOWN
+0xcd9  ೙     UNKNOWN
+0xcda  ೚     UNKNOWN
+0xcdb  ೛     UNKNOWN
+0xcdc  ೜     UNKNOWN
+0xcdd  ೝ     UNKNOWN
+0xcde  ೞ     KANNADA LETTER FA
+0xcdf  ೟     UNKNOWN

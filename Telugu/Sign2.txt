@@ -1,0 +1,8 @@
+0xc70  ౰     UNKNOWN
+0xc71  ౱     UNKNOWN
+0xc72  ౲     UNKNOWN
+0xc73  ౳     UNKNOWN
+0xc74  ౴     UNKNOWN
+0xc75  ౵     UNKNOWN
+0xc76  ౶     UNKNOWN
+0xc77  ౷     TELUGU SIGN SIDDHAM

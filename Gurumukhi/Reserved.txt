@@ -1,0 +1,7 @@
+0xa5f  ੟     UNKNOWN
+0xa60  ੠     UNKNOWN
+0xa61  ੡     UNKNOWN
+0xa62  ੢     UNKNOWN
+0xa63  ੣     UNKNOWN
+0xa64  ੤     <RESERVED>
+0xa65  ੥     <RESERVED>

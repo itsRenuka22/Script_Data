@@ -1,0 +1,13 @@
+0xa52  ੒     UNKNOWN
+0xa53  ੓     UNKNOWN
+0xa54  ੔     UNKNOWN
+0xa55  ੕     UNKNOWN
+0xa56  ੖     UNKNOWN
+0xa57  ੗     UNKNOWN
+0xa58  ੘     UNKNOWN
+0xa59  ਖ਼     GURMUKHI LETTER KHHA
+0xa5a  ਗ਼     GURMUKHI LETTER GHHA
+0xa5b  ਜ਼     GURMUKHI LETTER ZA
+0xa5c  ੜ     GURMUKHI LETTER RRA
+0xa5d  ੝     <RESERVED>
+0xa5e  ਫ਼     GURMUKHI LETTER FA

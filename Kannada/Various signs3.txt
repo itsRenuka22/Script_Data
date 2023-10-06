@@ -1,0 +1,9 @@
+0xcce  ೎     UNKNOWN
+0xccf  ೏     UNKNOWN
+0xcd0  ೐     UNKNOWN
+0xcd1  ೑     UNKNOWN
+0xcd2  ೒     UNKNOWN
+0xcd3  ೓     UNKNOWN
+0xcd4  ೔     UNKNOWN
+0xcd5  ೕ     KANNADA LENGTH MARK
+0xcd6  ೖ     KANNADA AI LENGTH MARK

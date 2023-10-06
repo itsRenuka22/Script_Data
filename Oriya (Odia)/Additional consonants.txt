@@ -1,0 +1,8 @@
+0xb58  ୘     UNKNOWN
+0xb59  ୙     UNKNOWN
+0xb5a  ୚     UNKNOWN
+0xb5b  ୛     UNKNOWN
+0xb5c  ଡ଼     ORIYA LETTER RRA
+0xb5d  ଢ଼     ORIYA LETTER RHA
+0xb5e  ୞     <RESERVED>
+0xb5f  ୟ     ORIYA LETTER YYA

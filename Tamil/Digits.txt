@@ -1,0 +1,10 @@
+0xbe6  ௦     TAMIL DIGIT ZERO
+0xbe7  ௧     TAMIL DIGIT ONE
+0xbe8  ௨     TAMIL DIGIT TWO
+0xbe9  ௩     TAMIL DIGIT THREE
+0xbea  ௪     TAMIL DIGIT FOUR
+0xbeb  ௫     TAMIL DIGIT FIVE
+0xbec  ௬     TAMIL DIGIT SIX
+0xbed  ௭     TAMIL DIGIT SEVEN
+0xbee  ௮     TAMIL DIGIT EIGHT
+0xbef  ௯     TAMIL DIGIT NINE

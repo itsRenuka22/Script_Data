@@ -1,0 +1,19 @@
+0xad1  ૑     UNKNOWN
+0xad2  ૒     UNKNOWN
+0xad3  ૓     UNKNOWN
+0xad4  ૔     UNKNOWN
+0xad5  ૕     UNKNOWN
+0xad6  ૖     UNKNOWN
+0xad7  ૗     UNKNOWN
+0xad8  ૘     UNKNOWN
+0xad9  ૙     UNKNOWN
+0xada  ૚     UNKNOWN
+0xadb  ૛     UNKNOWN
+0xadc  ૜     UNKNOWN
+0xadd  ૝     UNKNOWN
+0xade  ૞     UNKNOWN
+0xadf  ૟     UNKNOWN
+0xae0  ૠ     GUJARATI LETTER VOCALIC RR
+0xae1  ૡ     GUJARATI LETTER VOCALIC LL
+0xae2  ૢ     GUJARATI VOWEL SIGN VOCALIC L
+0xae3  ૣ     GUJARATI VOWEL SIGN VOCALIC LL
