@@ -1,8 +1,8 @@
-# Script_Data
+## Script_Data
 Contains unicode data for Indian languages
 
-# Scripts present
+## Scripts present
 Bengali Assamese, Brahmi, Devanagari Extended, Devanagari, Gujarati, Gurumukhi, Kannada, Malayalam, Ol Chiki, Oriya (Odia), Sora Sompeng, Tamil, Telugu
 
-# Source:
+## Source:
 https://www.unicode.org/charts/
