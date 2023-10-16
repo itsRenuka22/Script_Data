@@ -1,0 +1,5 @@
+0x5eb  ׫     UNKNOWN
+0x5ec  ׬     UNKNOWN
+0x5ed  ׭     UNKNOWN
+0x5ee  ׮     UNKNOWN
+0x5ef  ׯ     HEBREW YOD TRIANGLE

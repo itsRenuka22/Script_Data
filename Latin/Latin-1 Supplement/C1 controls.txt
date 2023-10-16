@@ -1,0 +1,32 @@
+0x80    <CONTROL>
+0x81    <CONTROL>
+0x82    <CONTROL>
+0x83    <CONTROL>
+0x84    <CONTROL>
+0x85    <CONTROL>
+0x86    <CONTROL>
+0x87    <CONTROL>
+0x88    <CONTROL>
+0x89    <CONTROL>
+0x8a    <CONTROL>
+0x8b    <CONTROL>
+0x8c    <CONTROL>
+0x8d    <CONTROL>
+0x8e    <CONTROL>
+0x8f    <CONTROL>
+0x90    <CONTROL>
+0x91    <CONTROL>
+0x92    <CONTROL>
+0x93    <CONTROL>
+0x94    <CONTROL>
+0x95    <CONTROL>
+0x96    <CONTROL>
+0x97    <CONTROL>
+0x98    <CONTROL>
+0x99    <CONTROL>
+0x9a    <CONTROL>
+0x9b    <CONTROL>
+0x9c    <CONTROL>
+0x9d    <CONTROL>
+0x9e    <CONTROL>
+0x9f    <CONTROL>

@@ -1,0 +1,3 @@
+0xfefd  ﻽     UNKNOWN
+0xfefe  ﻾     UNKNOWN
+0xfeff  ﻿﻾    ZERO WIDTH NO-BREAK SPACE

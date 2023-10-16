@@ -1,0 +1,13 @@
+0x5f3  ׳     HEBREW PUNCTUATION GERESH
+0x5f4  ״     HEBREW PUNCTUATION GERSHAYIM
+0x5f5  ׵     UNKNOWN
+0x5f6  ׶     UNKNOWN
+0x5f7  ׷     UNKNOWN
+0x5f8  ׸     UNKNOWN
+0x5f9  ׹     UNKNOWN
+0x5fa  ׺     UNKNOWN
+0x5fb  ׻     UNKNOWN
+0x5fc  ׼     UNKNOWN
+0x5fd  ׽     UNKNOWN
+0x5fe  ׾     UNKNOWN
+0x5ff  ׿     UNKNOWN

@@ -1,0 +1,8 @@
+0xfdc8  ﷈     UNKNOWN
+0xfdc9  ﷉     UNKNOWN
+0xfdca  ﷊     UNKNOWN
+0xfdcb  ﷋     UNKNOWN
+0xfdcc  ﷌     UNKNOWN
+0xfdcd  ﷍     UNKNOWN
+0xfdce  ﷎     UNKNOWN
+0xfdcf  ﷏     ARABIC LIGATURE SALAAMUHU ALAYNAA

@@ -1,0 +1,3 @@
+0x16f1  ᛱ     RUNIC LETTER K
+0x16f2  ᛲ     RUNIC LETTER SH
+0x16f3  ᛳ     RUNIC LETTER OO

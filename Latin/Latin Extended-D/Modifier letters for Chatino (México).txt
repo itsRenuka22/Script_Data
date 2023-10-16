@@ -1,0 +1,26 @@
+0xa7da  Ꟛ     UNKNOWN
+0xa7db  ꟛ     UNKNOWN
+0xa7dc  Ƛ     UNKNOWN
+0xa7dd  ꟝     UNKNOWN
+0xa7de  ꟞     UNKNOWN
+0xa7df  ꟟     UNKNOWN
+0xa7e0  ꟠     UNKNOWN
+0xa7e1  ꟡     UNKNOWN
+0xa7e2  ꟢     UNKNOWN
+0xa7e3  ꟣     UNKNOWN
+0xa7e4  ꟤     UNKNOWN
+0xa7e5  ꟥     UNKNOWN
+0xa7e6  ꟦     UNKNOWN
+0xa7e7  ꟧     UNKNOWN
+0xa7e8  ꟨     UNKNOWN
+0xa7e9  ꟩     UNKNOWN
+0xa7ea  ꟪     UNKNOWN
+0xa7eb  ꟫     UNKNOWN
+0xa7ec  ꟬     UNKNOWN
+0xa7ed  ꟭     UNKNOWN
+0xa7ee  ꟮     UNKNOWN
+0xa7ef  ꟯     UNKNOWN
+0xa7f0  ꟰     UNKNOWN
+0xa7f1  ꟱     UNKNOWN
+0xa7f2  ꟲ     MODIFIER LETTER CAPITAL C
+0xa7f3  ꟳ     MODIFIER LETTER CAPITAL F

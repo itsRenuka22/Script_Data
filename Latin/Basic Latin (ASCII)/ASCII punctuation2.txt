@@ -1,0 +1,2 @@
+0x3a : COLON
+0x3b ; SEMICOLON

@@ -1,0 +1,3 @@
+0xfdfd  ﷽     ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM
+0xfdfe  ﷾     UNKNOWN
+0xfdff  ﷿     UNKNOWN

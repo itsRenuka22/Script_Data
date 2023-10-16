@@ -1,0 +1,10 @@
+0xffdd  ￝     UNKNOWN
+0xffde  ￞     UNKNOWN
+0xffdf  ￟     UNKNOWN
+0xffe0  ￠     FULLWIDTH CENT SIGN
+0xffe1  ￡     FULLWIDTH POUND SIGN
+0xffe2  ￢     FULLWIDTH NOT SIGN
+0xffe3  ￣     FULLWIDTH MACRON
+0xffe4  ￤     FULLWIDTH BROKEN BAR
+0xffe5  ￥     FULLWIDTH YEN SIGN
+0xffe6  ￦     FULLWIDTH WON SIGN
